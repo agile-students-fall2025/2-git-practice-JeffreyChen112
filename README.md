@@ -1,3 +1,5 @@
 URL: https://www.wsj.com/economy/central-banking/fed-reserve-voters-division-dissent-99e932a6?mod=hp_lead_pos1 
 
 This article was very interesting because of how relevant it is to our current fiscal policy. Right now, the Fed is in an interesting place where the labor market is weakening but inflation is also rising. The typical response to a weakening labor market is to lower interest rates. However, lowering interest rates will allow infaltion to rise at a greater rate. Therefore, the Fed has to determine which problem has the potential to have the largest adverse effect on the economy. It will be very interesting to see what the Fed does in the coming months. 
+
+Shaurya Srivastava edits - This is a really thoughtful analysis. You’ve captured the core dilemma the Fed is facing right now—balancing a weakening labor market with persistent inflations. I think this will be huge come hiring season as businesses look to decide how many people they will want to hire, especially as us new grads enter the job market.
